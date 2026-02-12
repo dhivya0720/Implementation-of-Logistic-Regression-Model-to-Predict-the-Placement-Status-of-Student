@@ -87,8 +87,17 @@ print("Confusion Matrix:\n", cm)
 ```
 
 ## Output:
-<img width="616" height="233" alt="image" src="https://github.com/user-attachments/assets/c28ef696-52bd-44d3-9b92-99edd4644c72" />
 
+Predicted Placement Status: [1 1 0]
+Accuracy of the model: 1.0
+Confusion Matrix:
+ [[1 0]
+ [0 2]]
+Predicted Placement Status: [1 1 0]
+Accuracy of the model: 1.0
+Confusion Matrix:
+ [[1 0]
+ [0 2]]
 
 
 ## Result:
